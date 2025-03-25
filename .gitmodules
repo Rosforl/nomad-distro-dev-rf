@@ -16,3 +16,6 @@
 [submodule "packages/nomad-plugin-PLDtest2"]
 	path = packages/nomad-plugin-PLDtest2
 	url = https://github.com/Rosforl/nomad-plugin-PLDtest2.git
+[submodule "packages/nomad-simulations"]
+	path = packages/nomad-simulations
+	url = https://github.com/nomad-coe/nomad-simulations.git

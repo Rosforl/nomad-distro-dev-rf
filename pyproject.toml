@@ -41,8 +41,8 @@ nomad-analysis = { workspace = true }
 nomad-material-processing = { workspace = true }
 nomad-measurements = { workspace = true }
 nomad-plugin-PLDtest = { workspace = true }
-nomad-simulations = { workspace = true }
 nomad-plugin-PLDtest2 = { workspace = true }
+nomad-simulations = { workspace = true }
 
 [tool.uv]
 extra-index-url = [
