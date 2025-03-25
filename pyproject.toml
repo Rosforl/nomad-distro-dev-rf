@@ -25,6 +25,7 @@ dependencies = [
   "nomad-material-processing",
   "nomad-measurements",
   "nomad-plugin-PLDtest",
+  "nomad-plugin-PLDtest2",
 ]
 
 [tool.uv.workspace]
@@ -41,6 +42,7 @@ nomad-material-processing = { workspace = true }
 nomad-measurements = { workspace = true }
 nomad-plugin-PLDtest = { workspace = true }
 nomad-simulations = { workspace = true }
+nomad-plugin-PLDtest2 = { workspace = true }
 
 [tool.uv]
 extra-index-url = [
