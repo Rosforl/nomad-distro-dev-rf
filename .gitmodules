@@ -10,9 +10,6 @@
 [submodule "packages/nomad-analysis"]
 	path = packages/nomad-analysis
 	url = https://github.com/FAIRmat-NFDI/nomad-analysis.git
-[submodule "packages/nomad-simulations"]
-	path = packages/nomad-simulations
-	url = https://github.com/nomad-coe/nomad-simulations.git
 [submodule "packages/nomad-plugin-PLDtest"]
 	path = packages/nomad-plugin-PLDtest
 	url = https://github.com/Rosforl/nomad-plugin-PLDtest.git
