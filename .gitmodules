@@ -1,3 +1,12 @@
 [submodule "packages/nomad-FAIR"]
 	path = packages/nomad-FAIR
 	url = https://gitlab.mpcdf.mpg.de/nomad-lab/nomad-FAIR.git
+[submodule "packages/nomad-ikz-plugin-rf"]
+	path = packages/nomad-ikz-plugin-rf
+	url = https://github.com/Rosforl/nomad-ikz-plugin-rf.git
+[submodule "packages/nomad-plugin-pld-moda"]
+	path = packages/nomad-plugin-pld-moda
+	url = https://github.com/Rosforl/nomad-plugin-pld-moda.git
+[submodule "packages/nomad-plugin-pldmoda"]
+	path = packages/nomad-plugin-pldmoda
+	url = https://github.com/Rosforl/nomad-plugin-pldmoda.git
